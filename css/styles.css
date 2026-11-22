@@ -329,19 +329,7 @@ img:hover {
 
 /* Button */
 
-#cta a {
-  padding: 12px 60px;
-  border-radius: 42px;
-  background: #1CD8D2;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #93EDC7, #1CD8D2);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #93EDC7, #1CD8D2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  color: white;
-  border: 1px solid #1CD8D2;
-}
 
-#cta a:hover {
-  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
-}
 
 
 /* FOOTER SECTION */
@@ -349,13 +337,13 @@ img:hover {
 
 .social-icon {
   margin: 20px 15px;
-  color: white;
-  font-size: 2rem;
+  color: orange;
+  font-size: 3rem;
   /* text-decoration: none; */
 }
 
 .social-icon:hover {
-  color: orange;
+  color: rgb(239, 190, 98);
 }
 
 .icons { 
